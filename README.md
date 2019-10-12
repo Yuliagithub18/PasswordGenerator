@@ -1,2 +1,2 @@
-# PasswordGenerator
-HW3
+# yulia2.github.io
+Password Generator JS
